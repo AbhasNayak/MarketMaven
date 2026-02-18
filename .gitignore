@@ -1,0 +1,33 @@
+# Data
+data/raw/
+data/interim/
+data/external/
+
+# Model artifacts
+models/*.pkl
+models/*.joblib
+models/*.h5
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit cache
+.streamlit/
+
+# Logs
+*.log
